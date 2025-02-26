@@ -1,7 +1,7 @@
 Hi there, I'm Bintang! 👋
 
-Hello! I am a Backend Developer focused on performance, security, and scalability of backend systems.
-I have experience in API development, database management, and cloud service integration. 💡
+I am a backend developer focused on building reliable, secure, and efficient systems.
+With experience in a variety of server-side technologies, I help create applications that support great user experiences. 💡
 
 🛠 Technologies I Use
 
