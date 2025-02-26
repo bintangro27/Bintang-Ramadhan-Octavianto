@@ -1,32 +1,26 @@
+Hi there, I'm Bintang! 👋
 
-👨‍💻 About Me
+Hello! I am a Backend Developer focused on performance, security, and scalability of backend systems.
+I have experience in API development, database management, and cloud service integration. 💡
 
-Hi there! I'm a passionate Backend Developer with expertise in building scalable, efficient, and secure backend systems. I specialize in server-side development, database management, and API integrations. My goal is to create robust architectures that power seamless user experiences. 💡
-
-🛠 Skills & Technologies
+🛠 Technologies I Use
 
 🖥 Languages: PHP, JavaScript (Node.js)
 
-📚 Frameworks: Laravel
+📚 Frameworks: Laravel 
 
 🗄 Databases: MySQL, PostgreSQL
 
-🔗 API Development: 
+🔗 APIs: 
 
-🔒 Authentication & Security: 
-
-☁ Server & Cloud: Apache
+☁ Cloud & DevOps: Apache
 
 📝 Version Control: Git, GitHub
 
-🚀 Projects
 
-📩 How to Reach Me
+📩 Contact Me
 
-📧 Email: octavianto2004@gmail.com
+📧 Email: octavianto2004@gmail.com 🔗 LinkedIn:  www.linkedin.com/in/bintangro/
 
-🔗 LinkedIn: www.linkedin.com/in/bintangro/
 
-🤝 Let's Collaborate!
-
-I'm always open to working on exciting projects and collaborating with like-minded developers. Feel free to reach out! 🚀
+🚀 Let's collaborate and create something amazing!
