@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**bintangro27/bintangro27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
 
-Here are some ideas to get you started:
+Hi there! I'm a passionate Backend Developer with expertise in building scalable, efficient, and secure backend systems. I specialize in server-side development, database management, and API integrations. My goal is to create robust architectures that power seamless user experiences. 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills & Technologies
+
+🖥 Languages: PHP, JavaScript (Node.js)
+
+📚 Frameworks: Laravel
+
+🗄 Databases: MySQL, PostgreSQL
+
+🔗 API Development: 
+
+🔒 Authentication & Security: 
+
+☁ Server & Cloud: Apache
+
+📝 Version Control: Git, GitHub
+
+🚀 Projects
+
+📩 How to Reach Me
+
+📧 Email: octavianto2004@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/bintangro/
+
+🤝 Let's Collaborate!
+
+I'm always open to working on exciting projects and collaborating with like-minded developers. Feel free to reach out! 🚀
