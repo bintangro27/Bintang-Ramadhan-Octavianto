@@ -5,7 +5,7 @@ With experience in a variety of server-side technologies, I help create applicat
 
 🛠 Technologies I Use
 
-🖥 Languages: PHP, JavaScript (Node.js)
+🖥 Languages: PHP, JavaScript (Node.js), Java
 
 📚 Frameworks: Laravel 
 
