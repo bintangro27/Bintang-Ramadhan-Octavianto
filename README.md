@@ -20,7 +20,8 @@ With experience in a variety of server-side technologies, I help create applicat
 
 📩 Contact Me
 
-📧 Email: octavianto2004@gmail.com 🔗 LinkedIn:  www.linkedin.com/in/bintangro/
+📧 Email: octavianto2004@gmail.com 🔗 LinkedIn:  www.linkedin.com/in/bintangro
+
 
 
 🚀 Let's collaborate and create something amazing!
